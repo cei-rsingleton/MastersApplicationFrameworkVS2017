@@ -1,0 +1,1 @@
+MastersApplicationFrameworkVS2017
